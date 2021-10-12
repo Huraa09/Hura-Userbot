@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SendiAp/Rose-UserBot",
-  "telegram": "https://t.me/pikyus1",
-  "success_url": "https://t.me/UserbotSupport1",
+  "repository": "https://github.com/Huraa09/Hura-UserBot",
+  "telegram": "https://t.me/huraaas",
+  "success_url": "https://t.me/hurauserbot",
   "stack": "container",
   "env": {
     "API_KEY": {
